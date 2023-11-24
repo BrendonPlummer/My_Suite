@@ -1,0 +1,39 @@
+{APP SUITE}
+Tech Stack:
+Python
+Tkinter
+MongoDB
+TBD
+
+App Flow:
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+> Open App [ENTRY]
+>   > Provides Suite Window? Allowing user to seelct out of suite of uses
+>   > User selects application use then moves forward to that program
+>   > Have a 'quickDisplay' section with weather, news tidbits and the like 
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+> MyFinance opens [APP]
+>   > Takes to a basic dashboard showing highlights of accounts
+>   >   > Recent purchases
+>   >   > Current Balances
+>   >   > Remaining monthly outgoings/income
+>   >   > Potential intergration of event calandar with a budget included (allwos for future planning in the app)
+>   > Each highlight is also a link to that respective section, sections listed:
+>   >   > Spendings (Recent purchases) also has overall balance
+>   >   > Any planned payments, direct debits, savings payments, planned events, etc.
+>   >   > TBD
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+> News App [APP]
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+> Tasks / Calander [APP]
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+> Communications ?? []
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+> TBD
+
